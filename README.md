@@ -16,6 +16,16 @@ This repo documents solutions to each scenario with three files per scenario:
 | `troubleshoot.md` | Investigation process — how to diagnose the problem |
 | `runbook.md` | Fix steps — exact commands to resolve the scenario |
 
+## General Instructions
+
+These apply to every scenario:
+
+- You have full access to a real Linux server (ephemeral VM) via SSH. The VM is terminated after the allotted time.
+- No outbound internet access from the server (except when indicated). DNS is available locally.
+- Do not interfere with services unrelated to the issue — specifically services running on ports **:2020** and **:6767**.
+- If stuck, click **"Next Clue / Solution"** to reveal hints one at a time.
+- Once the issue is fixed, click **"Check My Solution"** to verify against the test.
+
 ## Scenarios
 
 ### Easy
