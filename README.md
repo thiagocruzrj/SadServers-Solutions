@@ -33,6 +33,7 @@ These apply to every scenario:
 | # | Scenario | Type | Tags |
 |---|----------|------|------|
 | 1 | [Saint John - What Is Writing to This Log File](easy/1-Saint%20John%20-%20What%20Is%20Writing%20to%20This%20Log%20File/) | Fix | python, bash |
+| 2 | [Saskatoon - Counting IPs](easy/2-Saskatoon%20-%20Counting%20IPs/) | Do | bash |
 
 ### Medium
 
